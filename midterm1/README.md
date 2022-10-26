@@ -1,7 +1,7 @@
 ### Midterm 1
 
-"Pset1_code.ipynb" containts all the code parts displayed in a Jupyter Notebook
+*Pset1_code.ipynb* containts all the code parts displayed in a Jupyter Notebook
 
-"integrals.csv" contains all the matrix elements exactly as given in the assignment
+*integrals.csv* contains all the matrix elements exactly as given in the assignment
 
-"Pset1_writen.pdf" contains the writen answers
+*Pset1_written.pdf* contains the written answers
